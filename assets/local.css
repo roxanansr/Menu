@@ -1,0 +1,13 @@
+@media screen and (max-width:768px) {
+    .chef>div{
+        right: 0;
+        margin-top: -10px;
+    }
+    .order>div{
+        left: 0;
+        margin: 10px 0;
+    }
+   .menu>div{
+    overflow-y:scroll;
+   }
+}
